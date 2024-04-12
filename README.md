@@ -27,4 +27,4 @@ This is a simple calculator web application built with HTML, CSS, and PHP. It al
 
 ## Screenshots
 
-![Calculator Screenshot](C:\xampp\htdocs\calculator\calculator shot.PNG)
+![Calculator Screenshot](calculator shot.PNG)
